@@ -1,0 +1,37 @@
+
+/**
+@brief The main, catch-all namespace for TEO.
+ */
+namespace roboticslab {}
+
+/**
+ * \defgroup vision_applications vision Applications (Collections of Programs)
+ * @brief vision applications (collections of programs).
+ */
+
+/**
+ * \defgroup vision_libraries vision Libraries
+ * @brief vision libraries.
+ */
+
+/**
+ * @ingroup vision_libraries
+ * \defgroup YarpPlugins YarpPlugins
+ * @brief Contains vision libraries that implement YARP device interfaces
+ * and therefore can be invoked as YARP plugins.
+ * @section YarpPlugins_install Installation
+ *
+ * Compiled when ENABLE_YarpPlugins is activated.
+ */
+
+/**
+ * 
+ * \defgroup vision_programs vision Programs
+ * @brief vision programs.
+ */
+
+/**
+ * \defgroup vision_examples vision Examples
+ * @brief vision examples.
+ */
+

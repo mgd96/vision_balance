@@ -1,0 +1,9 @@
+*~
+*.swp
+*.orig
+tags
+CMakeLists.txt.user
+**/build*/
+doc/html
+/.project
+/.cproject
